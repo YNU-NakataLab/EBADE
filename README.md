@@ -1,5 +1,5 @@
 # EBADE
-Emulation-based Adaptive Differential Evolution: Fast and Auto-tunable Approach for Moderately Expensive Optimization Problems
+[Emulation-based adaptive differential evolution: fast and auto-tunable approach for moderately expensive optimization problems](https://link.springer.com/article/10.1007/s40747-023-01340-9)
 
 - This is an open-source code of EBADE implemented by Python 3.
 
@@ -22,20 +22,20 @@ Emulation-based Adaptive Differential Evolution: Fast and Auto-tunable Approach 
 ## Copyright
 
 The copyright of the EBADE belongs to authors in the [Evolutionary Intelligence Research Group (Nakata Lab)](http://www.nkt.ynu.ac.jp/en/) at Yokohama National University, Japan. You are free to use this code for research purposes. Please refer to the following article; 
-> _Kei Nishihara and Masaya Nakata, Emulation-based Adaptive Differential Evolution: Fast and Auto-tunable Approach for Moderately Expensive Optimization Problems, Complex & Intelligent Systems, accepted._
+> _Kei Nishihara and Masaya Nakata, Emulation-based adaptive differential evolution: fast and auto-tunable approach for moderately expensive optimization problems, Complex & Intelligent Systems, 2024._
 
 
 ```
 @article{nishihara2024emulation,
-  title={{Emulation-based Adaptive Differential Evolution: Fast and Auto-tunable Approach for Moderately Expensive Optimization Problems}},
+  title={{Emulation-based adaptive differential evolution: fast and auto-tunable approach for moderately expensive optimization problems}},
   author={Nishihara, Kei and Nakata, Masaya},
   journal={Complex & Intelligent Systems},
   volume={},
   number={},
   pages={},
-  month={},
+  month={Feb},
   year={2024},
   publisher={Springer}
-  doi={}
+  doi={10.1007/s40747-023-01340-9}
 }
 ```
