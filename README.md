@@ -22,7 +22,7 @@
 ## Copyright
 
 The copyright of the EBADE belongs to authors in the [Evolutionary Intelligence Research Group (Nakata Lab)](http://www.nkt.ynu.ac.jp/en/) at Yokohama National University, Japan. You are free to use this code for research purposes. Please refer to the following article; 
-> _Kei Nishihara and Masaya Nakata, Emulation-based adaptive differential evolution: fast and auto-tunable approach for moderately expensive optimization problems, Complex & Intelligent Systems, 2024._
+> _Kei Nishihara and Masaya Nakata, "Emulation-based adaptive differential evolution: fast and auto-tunable approach for moderately expensive optimization problems," Complex & Intelligent Systems, 2024._
 
 
 ```
@@ -35,7 +35,7 @@ The copyright of the EBADE belongs to authors in the [Evolutionary Intelligence 
   pages={},
   month={Feb},
   year={2024},
-  publisher={Springer}
+  publisher={Springer},
   doi={10.1007/s40747-023-01340-9}
 }
 ```
